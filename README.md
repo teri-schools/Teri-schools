@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![img](https://www.google.com/imgres?imgurl=https%3A%2F%2Fkonkurent.ua%2Fmedia%2Fcache%2F74%2F87%2F7487223ee97ca6ec986ad026e00f75e5.jpg&tbnid=n5yA1BdgRB5NNM&vet=12ahUKEwjB3Mbht9qEAxV_q_0HHW-cBTQQMygWegQIARBe..i&imgrefurl=https%3A%2F%2Fkonkurent.ua%2Fpublication%2F126882%2Fmerezhu-zamiluvav-noviy-memniy-kit-sirskiy-hto-vin-takiy-i-do-chogo-tut-volin%2F&docid=_oOPJuRL2ZxNcM&w=553&h=600&q=%D0%B7%D0%B0%D0%B9%D0%BE%D0%B1%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%96%D1%82&client=firefox-b-d&ved=2ahUKEwjB3Mbht9qEAxV_q_0HHW-cBTQQMygWegQIARBe)
+
 **teri-schools/Teri-schools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
